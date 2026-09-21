@@ -1,0 +1,16 @@
+{
+  "private_key_hex": "XXXXXXXXXXXXXX",
+  "channels": [
+    "TelegramChannel1",
+    "TelegramChannel2"
+  ],
+  "blossom_server_url": "https://blossom.primal.net",
+  "relay_urls": [
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.primal.net",
+    "wss://relay-rpi.edufeed.org",
+    "wss://nostr-01.yakihonne.com/"
+  ]
+}
