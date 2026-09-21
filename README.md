@@ -1,4 +1,3 @@
-[telegram_to_nostr_bridge_startup_guide.md](https://github.com/user-attachments/files/32448240/telegram_to_nostr_bridge_startup_guide.md)
 # Telegram-to-Nostr Bridge
 ## Production Startup & Configuration Guide
 
